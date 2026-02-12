@@ -124,6 +124,7 @@ const MedCoreApp = () => {
           <button onClick={() => setActiveTab('dashboard')} className={activeTab === 'dashboard' ? 'btn-primary' : 'btn-ghost'}>Patient Portal</button>
           <button onClick={() => setActiveTab('checker')} className={activeTab === 'checker' ? 'btn-primary' : 'btn-ghost'}>Symptom Checker</button>
           <button onClick={() => setActiveTab('doctor')} className={activeTab === 'doctor' ? 'btn-primary' : 'btn-ghost'}>Doctor Portal</button>
+          <button onClick={() => setActiveTab('docs')} className={activeTab === 'docs' ? 'btn-primary' : 'btn-ghost'}>Project Hub</button>
           <button onClick={() => setActiveTab('about')} className={activeTab === 'about' ? 'btn-primary' : 'btn-ghost'}>About Team</button>
         </nav>
       </header>
@@ -235,6 +236,62 @@ const MedCoreApp = () => {
                 )) : (
                   <p style={{ color: 'var(--text-muted)' }}>No previous consultations found.</p>
                 )}
+              </div>
+            </div>
+          </div>
+        ) : activeTab === 'docs' ? (
+          <div className="glass-card" style={{ padding: '3rem' }}>
+            <div style={{ display: 'flex', gap: '3rem' }}>
+              <aside style={{ width: '250px', borderRight: '1px solid #eee', paddingRight: '2rem' }}>
+                <h3 style={{ marginBottom: '1.5rem' }}>Lab Deliverables</h3>
+                <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                  <li><a href="#final-report" style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: '600' }}>Final Project Report</a></li>
+                  <li><a href="#impl-plan" style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: '600' }}>Implementation Plan</a></li>
+                  <li><a href="#walkthrough" style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: '600' }}>Project Walkthrough</a></li>
+                </ul>
+              </aside>
+
+              <div style={{ flex: 1, maxHeight: '700px', overflowY: 'auto', paddingRight: '1rem' }} className="docs-content">
+                <section id="final-report" style={{ marginBottom: '4rem' }}>
+                  <h2 style={{ borderBottom: '2px solid var(--accent)', paddingBottom: '0.5rem', marginBottom: '1.5rem' }}>Final Project Report</h2>
+                  <div style={{ background: '#f8fafc', padding: '2rem', borderRadius: '16px', border: '1px solid #e2e8f0' }}>
+                    <p><strong>Executive Summary:</strong> MedCore AI is an interdisciplinary solution bridging Medical Science and Advanced Computing. Developed by the WSB University team—Maamar Haddouche, Alaeddine Benzaid, Abdennour Zakaria Cherifi, Noufel Benameur, and Student 59533.</p>
+                    <h4 style={{ marginTop: '1.5rem' }}>Requirements Fulfillment:</h4>
+                    <ul>
+                      <li>Team-Oriented modular architecture.</li>
+                      <li>Interdisciplinary Integration (Medicine, Engineering, Data Science).</li>
+                      <li>Vite + React + Gemini 2.5 Flash Technology Stack.</li>
+                    </ul>
+                    <h4 style={{ marginTop: '1.5rem' }}>SDLC Phases:</h4>
+                    <p>Requirements → Design → Implementation → Testing → Documentation.</p>
+                  </div>
+                </section>
+
+                <section id="impl-plan" style={{ marginBottom: '4rem' }}>
+                  <h2 style={{ borderBottom: '2px solid var(--accent)', paddingBottom: '0.5rem', marginBottom: '1.5rem' }}>Implementation Plan</h2>
+                  <div style={{ background: '#f8fafc', padding: '2rem', borderRadius: '16px', border: '1px solid #e2e8f0' }}>
+                    <p>Integrates Medicine with Computer Science via a modern AI-assisted interface for symptom checking and patient data management.</p>
+                    <h4 style={{ marginTop: '1.5rem' }}>Core Modules:</h4>
+                    <ul>
+                      <li>Project Foundation (Glassmorphism & Vite).</li>
+                      <li>Frontend Dashboards (Patient & Doctor).</li>
+                      <li>Medical AI Integration (Symptom Knowledge Extraction).</li>
+                      <li>SDLC & Agile Project Management.</li>
+                    </ul>
+                  </div>
+                </section>
+
+                <section id="walkthrough" style={{ marginBottom: '4rem' }}>
+                  <h2 style={{ borderBottom: '2px solid var(--accent)', paddingBottom: '0.5rem', marginBottom: '1.5rem' }}>Project Walkthrough</h2>
+                  <div style={{ background: '#f8fafc', padding: '2rem', borderRadius: '16px', border: '1px solid #e2e8f0' }}>
+                    <h4 style={{ marginTop: '1rem' }}>1. Holistic Symptom Intelligence</h4>
+                    <p>Powered by Gemini 2.5 Flash. Context-aware analysis of HR, BP, SpO2, and history.</p>
+                    <h4 style={{ marginTop: '1rem' }}>2. Visual Analytics</h4>
+                    <p>Interactive multi-metric charts for real-time vitals tracking.</p>
+                    <h4 style={{ marginTop: '1rem' }}>3. Branding & UX</h4>
+                    <p>WSB University institutional branding, team portal, and premium glassmorphic design.</p>
+                  </div>
+                </section>
               </div>
             </div>
           </div>
