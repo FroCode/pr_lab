@@ -17,7 +17,7 @@ const MedCoreApp = () => {
   ]);
   const [teamMembers, setTeamMembers] = useState([
     { name: 'Maamar Haddouche', role: 'Team Lead / Full-Stack Developer', id: '58127' },
-    { name: 'Alaeddine Benzaid', role: 'AI Integration Specialist', id: '59534' },
+    { name: 'Alaeddine Benzaid', role: 'AI Integration Specialist', id: '59533' },
     { name: 'Abdennour Zakaria Cherifi', role: 'Data Systems Engineer', id: '59582' },
     { name: 'Noufel Benameur', role: 'Frontend & UX Engineer', id: '59501' }
   ]);

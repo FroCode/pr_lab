@@ -13,7 +13,7 @@ This report outlines the specific contributions of each team member towards the 
 *   **SDLC Management:** Directed the project through the full software development lifecycle, from requirements analysis to final production verification.
 *   **Production Optimization:** Conducted final build audits and ensured the application met premium performance standards.
 
-## 2. Alaeddine Benzaid (59534)
+## 2. Alaeddine Benzaid (59533)
 **Role:** AI Integration Specialist
 *   **Generative Intelligence:** Led the integration of the Google Gemini 2.5 Flash AI model using the Generative AI SDK.
 *   **Contextual Prompt Engineering:** Developed the "Context Extractor" logic that aggregates real-time patient vitals (HR, BP, SpO2) for AI analysis.

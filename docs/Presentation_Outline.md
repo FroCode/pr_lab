@@ -9,7 +9,7 @@
 *   **Subtitle:** Advanced Interdisciplinary Health Intelligence & Diagnostic Platform
 *   **Team Members:** 
     *   Maamar Haddouche (58127)
-    *   Alaeddine Benzaid (59534)
+    *   Alaeddine Benzaid (59533)
     *   Abdennour Zakaria Cherifi (59582)
     *   Noufel Benameur (59501)
     *   Team Member (59533)
