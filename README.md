@@ -23,4 +23,5 @@ Official project deliverables:
 - [Final Project Report](./docs/Final_Project_Report.md)
 - [Project Walkthrough](./docs/Project_Walkthrough.md)
 - [System Architecture](./docs/System_Architecture.md)
+- [Individual Contributions](./docs/Individual_Contributions.md)
 - [Presentation Outline (PowerPoint)](./docs/Presentation_Outline.md)

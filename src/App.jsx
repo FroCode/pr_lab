@@ -19,8 +19,7 @@ const MedCoreApp = () => {
     { name: 'Maamar Haddouche', role: 'Team Lead / Full-Stack Developer', id: '58127' },
     { name: 'Alaeddine Benzaid', role: 'AI Integration Specialist', id: '59534' },
     { name: 'Abdennour Zakaria Cherifi', role: 'Data Systems Engineer', id: '59582' },
-    { name: 'Noufel Benameur', role: 'Frontend Engineer', id: '59501' },
-    { name: 'Team Member', role: 'Lab Contributor', id: '59533' }
+    { name: 'Noufel Benameur', role: 'Frontend & UX Engineer', id: '59501' }
   ]);
 
   const healthData = [
@@ -248,6 +247,7 @@ const MedCoreApp = () => {
                   <li><a href="#final-report" style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: '600' }}>Final Project Report</a></li>
                   <li><a href="#impl-plan" style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: '600' }}>Implementation Plan</a></li>
                   <li><a href="#walkthrough" style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: '600' }}>Project Walkthrough</a></li>
+                  <li><a href="#contributions" style={{ color: 'var(--accent)', textDecoration: 'none', fontWeight: '600' }}>Individual Contributions</a></li>
                 </ul>
               </aside>
 
@@ -290,6 +290,20 @@ const MedCoreApp = () => {
                     <p>Interactive multi-metric charts for real-time vitals tracking.</p>
                     <h4 style={{ marginTop: '1rem' }}>3. Branding & UX</h4>
                     <p>WSB University institutional branding, team portal, and premium glassmorphic design.</p>
+                  </div>
+                </section>
+
+                <section id="contributions" style={{ marginBottom: '4rem' }}>
+                  <h2 style={{ borderBottom: '2px solid var(--accent)', paddingBottom: '0.5rem', marginBottom: '1.5rem' }}>Individual Contributions</h2>
+                  <div style={{ background: '#f8fafc', padding: '2rem', borderRadius: '16px', border: '1px solid #e2e8f0' }}>
+                    <h4 style={{ marginTop: '1rem' }}>Maamar Haddouche:</h4>
+                    <p>Team Lead, Full-Stack Architecture, SDLC Management.</p>
+                    <h4 style={{ marginTop: '1rem' }}>Alaeddine Benzaid:</h4>
+                    <p>AI Integration Specialist, Gemini 2.5 Logic, Safety Systems.</p>
+                    <h4 style={{ marginTop: '1rem' }}>Abdennour Zakaria Cherifi:</h4>
+                    <p>Data Systems Engineer, Recharts Vital Visualization, Archives.</p>
+                    <h4 style={{ marginTop: '1rem' }}>Noufel Benameur:</h4>
+                    <p>Frontend & UX Engineer, Glassmorpic Design, Institutional Branding.</p>
                   </div>
                 </section>
               </div>
