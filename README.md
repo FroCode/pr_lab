@@ -18,7 +18,8 @@ MedCore AI provides:
 - **Visualization**: Recharts
 
 ## 📄 Documentation
-Detailed project documentation artifacts:
-- [Implementation Plan](../../.gemini/antigravity/brain/dc996b3e-8348-482b-9403-30cfbfbb683f/implementation_plan.md)
-- [Final Project Report](../../.gemini/antigravity/brain/dc996b3e-8348-482b-9403-30cfbfbb683f/final_report.md)
-- [Project Walkthrough](../../.gemini/antigravity/brain/dc996b3e-8348-482b-9403-30cfbfbb683f/walkthrough.md)
+Official project deliverables:
+- [Implementation Plan](./docs/Implementation_Plan.md)
+- [Final Project Report](./docs/Final_Project_Report.md)
+- [Project Walkthrough](./docs/Project_Walkthrough.md)
+- [System Architecture](./docs/System_Architecture.md)
