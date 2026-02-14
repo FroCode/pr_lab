@@ -9,10 +9,10 @@
 *   **Subtitle:** Advanced Interdisciplinary Health Intelligence & Diagnostic Platform
 *   **Team Members:** 
     *   Maamar Haddouche (58127)
-    *   Alaeddine Benzaid (59533)
+    *   Alaeddine Benzaid (59534)
     *   Abdennour Zakaria Cherifi (59582)
     *   Noufel Benameur (59501)
-    *   Team Member (59533)
+    *   Housseyn Azieze (59533)
 *   **Logo:** WSB University
 *   **Speaker Notes:** Welcome everyone. Today, we are proud to present MedCore AI, a project developed at WSB University that bridges the gap between modern software engineering and clinical medicine.
 

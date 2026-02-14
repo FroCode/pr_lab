@@ -13,7 +13,7 @@ This report outlines the specific contributions of each team member towards the 
 *   **SDLC Management:** Directed the project through the full software development lifecycle, from requirements analysis to final production verification.
 *   **Production Optimization:** Conducted final build audits and ensured the application met premium performance standards.
 
-## 2. Alaeddine Benzaid (59533)
+## 2. Alaeddine Benzaid (59534)
 **Role:** AI Integration Specialist
 *   **Generative Intelligence:** Led the integration of the Google Gemini 2.5 Flash AI model using the Generative AI SDK.
 *   **Contextual Prompt Engineering:** Developed the "Context Extractor" logic that aggregates real-time patient vitals (HR, BP, SpO2) for AI analysis.
@@ -33,3 +33,9 @@ This report outlines the specific contributions of each team member towards the 
 *   **Institutional Branding:** Integrated the WSB University identity, including logo placement and institutional color palettes.
 *   **Responsive layouts:** Developed the multi-portal interface (Patient Portal, Doctor Portal, Project Hub).
 *   **Interactive UX:** Implemented CSS micro-animations and transition effects to enhance the accessibility and "wow" factor of the application.
+
+## 5. Housseyn Azieze (59533)
+**Role:** Systems Analyst / QA
+*   **Requirements Validation:** Ensured the interdisciplinary medical logic met technical specifications.
+*   **Quality Assurance:** Conducted user-testing of the Symptom Checker flow and diagnostic accuracy.
+*   **Documentation Support:** Assisted in the development of the technical architecture and final project manual.

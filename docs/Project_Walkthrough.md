@@ -20,7 +20,7 @@ Dual-role interface for managed health interactions.
 ### 3. Medical Documentation & Design
 - **Project Hub**: Integrated documentation center displaying the **Implementation Plan**, **Final Report**, and **Walkthrough** directly within the web application.
 - **Institutional Branding**: Integrated **WSB University** logo and identity throughout the platform.
-- **Team Portal**: Official project team section featuring **Maamar Haddouche (58127)**, **Alaeddine Benzaid (59533)**, **Abdennour Zakaria Cherifi (59582)**, **Noufel Benameur (59501)**, and member **59533**.
+- **Team Portal**: Official project team section featuring **Maamar Haddouche (58127)**, **Alaeddine Benzaid (59534)**, **Abdennour Zakaria Cherifi (59582)**, **Noufel Benameur (59501)**, and **Housseyn Azieze (59533)**.
 - **Consultation Archive**: Persistent (session-based) log of all AI diagnostic results for patient review.
 - **Premium UX**: Smooth fade-in animations and interactive glassmorphism effects.
 - **Production Ready**: Verified production build using Vite for optimized performance.

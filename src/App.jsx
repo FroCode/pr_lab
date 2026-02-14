@@ -17,9 +17,10 @@ const MedCoreApp = () => {
   ]);
   const [teamMembers, setTeamMembers] = useState([
     { name: 'Maamar Haddouche', role: 'Team Lead / Full-Stack Developer', id: '58127' },
-    { name: 'Alaeddine Benzaid', role: 'AI Integration Specialist', id: '59533' },
+    { name: 'Alaeddine Benzaid', role: 'AI Integration Specialist', id: '59534' },
     { name: 'Abdennour Zakaria Cherifi', role: 'Data Systems Engineer', id: '59582' },
-    { name: 'Noufel Benameur', role: 'Frontend & UX Engineer', id: '59501' }
+    { name: 'Noufel Benameur', role: 'Frontend & UX Engineer', id: '59501' },
+    { name: 'Housseyn Azieze', role: 'Systems Analyst', id: '59533' }
   ]);
 
   const healthData = [
@@ -304,6 +305,8 @@ const MedCoreApp = () => {
                     <p>Data Systems Engineer, Recharts Vital Visualization, Archives.</p>
                     <h4 style={{ marginTop: '1rem' }}>Noufel Benameur:</h4>
                     <p>Frontend & UX Engineer, Glassmorpic Design, Institutional Branding.</p>
+                    <h4 style={{ marginTop: '1rem' }}>Housseyn Azieze:</h4>
+                    <p>Systems Analyst, Quality Assurance, Documentation Support.</p>
                   </div>
                 </section>
               </div>

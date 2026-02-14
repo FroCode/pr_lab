@@ -15,9 +15,10 @@ color: #1e293b
 
 **Team Members:**
 * Maamar Haddouche (58127) - *Lead Architect*
-* Alaeddine Benzaid (59533) - *AI Specialist*
+* Alaeddine Benzaid (59534) - *AI Specialist*
 * Abdennour Zakaria Cherifi (59582) - *Data Systems*
 * Noufel Benameur (59501) - *UX Engineer*
+* Housseyn Azieze (59533) - *Systems Analyst*
 
 ---
 

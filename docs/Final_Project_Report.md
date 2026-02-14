@@ -1,14 +1,14 @@
 # MedCore AI: Final Project Report
 
 ## 1. Executive Summary
-MedCore AI is an interdisciplinary software solution that bridges **Medical Science** and **Advanced Computing**. Developed by the WSB University team—**Maamar Haddouche (58127)**, **Alaeddine Benzaid (59533)**, **Abdennour Zakaria Cherifi (59582)**, and **Noufel Benameur (59501)**—the platform provides AI-driven preliminary diagnostics, patient management, and professional oversight tools.
+MedCore AI is an interdisciplinary software solution that bridges **Medical Science** and **Advanced Computing**. Developed by the WSB University team—**Maamar Haddouche (58127)**, **Alaeddine Benzaid (59534)**, **Abdennour Zakaria Cherifi (59582)**, **Noufel Benameur (59501)**, and **Housseyn Azieze (59533)**—the platform provides AI-driven preliminary diagnostics, patient management, and professional oversight tools.
 
 ## 2. Project Requirements fulfillment
 - **Team-Oriented**: Designed with a modular architecture suitable for group development (4-6 members).
 - **Interdisciplinary Integration**:
   - **Medicine**: Incorporates symptom-knowledge mapping and clinical data visualization.
   - **Economics/Engineering**: Scalable dashboard architecture for healthcare efficiency.
-- **Individual Accountability**: See the [Individual Contributions Report](./Individual_Contributions.md) for detailed task breakdowns for Maamar Haddouche, Alaeddine Benzaid, Abdennour Zakaria Cherifi, and Noufel Benameur.
+- **Individual Accountability**: See the [Individual Contributions Report](./Individual_Contributions.md) for detailed task breakdowns for Maamar Haddouche, Alaeddine Benzaid, Abdennour Zakaria Cherifi, Noufel Benameur, and Housseyn Azieze.
 - **Technologies**: Built using Vite + React for high-performance frontend state management and glassmorphic CSS for a premium user experience. Utilizes the cutting-edge **Gemini 2.5 Flash** model for advanced medical reasoning.
 
 ## 3. Software Development Lifecycle (SDLC)
